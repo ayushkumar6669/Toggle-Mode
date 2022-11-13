@@ -1,0 +1,1 @@
+{"id":"s8zH","dependencies":[],"generated":{"html":"<!DOCTYPE html><html><head><title>Toggle Mode</title></head><body> <div id=\"toggle\"> <div id=\"circle\" class=\"animate\"></div> </div> <h1>Click on the Toggle Button</h1> </body></html>"},"sourceMaps":null,"error":null,"hash":"6098f071240a7fa95e05340d4eaf8055","cacheData":{}}
