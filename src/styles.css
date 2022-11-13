@@ -17,3 +17,17 @@
   transition-duration: 1s;
   margin-left: 1px;
 }
+
+h1 {
+  font-size: 5rem;
+  margin: 100px auto;
+  text-align: center;
+}
+
+.color-white {
+  color: white;
+}
+
+.bck-color-black {
+  background-color: black;
+}
